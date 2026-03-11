@@ -5,7 +5,7 @@
 session_start();
 
 // Database Configuration
-define('DB_HOST', 'sql.freedb.tech');
+define('DB_HOST', '130.162.54.212');
 define('DB_PORT', 3306);
 define('DB_USER', 'freedb_ikannn');
 define('DB_PASS', '#F&#ZkWAg8wpdBT');
