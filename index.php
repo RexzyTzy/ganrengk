@@ -5,11 +5,11 @@
 session_start();
 
 // Database Configuration
-define('DB_HOST', 'sql.freedb.tech');
+define('DB_HOST', '208.84.103.75');
 define('DB_PORT', 3306);
-define('DB_USER', 'freedb_ikannn');
-define('DB_PASS', '#F&#ZkWAg8wpdBT');
-define('DB_NAME', 'freedb_RenzyTzy');
+define('DB_USER', 'u1649_NtHPQzNRvz');
+define('DB_PASS', 'qJHEEZZraPLuQGGOtHPSvWT=');
+define('DB_NAME', 's1649_Dewata');
 
 // Connect to DB
 function getDB() {
